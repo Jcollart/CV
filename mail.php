@@ -9,8 +9,8 @@
 	
 	$name = $_POST['Noms'];
 	$email = $_POST['email'];
-	$phone = $_POST['telephone'];
-	$website = $_POST['siteweb'];
+	$phone = $_POST['téléphone'];
+	$website = $_POST['site web'];
 	$message = $_POST['message'];
 	
 	if( empty($name) ){
